@@ -13,7 +13,6 @@ These span domains including **IoT, Robotics, Renewable Energy, AI/ML, and Embed
 | ☀️ **Portable Solar Charger** | Renewable Energy | Solar PV, LM7805, Li-ion Battery, USB Output | [View Project](./Portable-Solar-Charger/README.md) |
 | 🚗 **Traffic Sign Detection** | Deep Learning / Computer Vision | TensorFlow, OpenCV, CNN | [View Project](./Traffic-Sign-Detection/README.md) |
 | 🧠 **Brain Tumor Classification** | Medical Imaging / AI | MRI Dataset, Keras, NumPy | [View Project](./Brain-Tumor-Classification/README.md) |
-| 🍽️ **MoodMuncher AI** | Product Prototype | NLP, Flask, Python | [View Project](./MoodMuncher-AI/README.md) |
 | 🔧 **IoT Sensor Dashboard** | Embedded / IoT | ESP8266, DHT11, MQTT, HTML | [View Project](./IoT-Sensor-Dashboard/README.md) |
 
 ---
