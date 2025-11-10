@@ -32,4 +32,4 @@ My projects combine **mechanical, electronic, and software** expertise for smart
 
 ---
 
-> 📜 _© 2025 Shiva Kumar Puppala — All portfolio projects are open for learning under MIT License._
+> 📜 _© 2025 Shiva Kumar Puppala — All portfolio projects are open for learning 
